@@ -3,13 +3,12 @@
 <h3 align="center">A nerd basically finding the bugs in matrix.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently working on **College Application**
-
-- 👯 I’m looking to collaborate on **App development**
+- 🔭 I’m currently working on **Springboot Application**
+- 👯 I’m looking to collaborate on **Api Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/animegit](https://github.com/animegit)
 
-- 💬 Ask me about **Java,Flutter,Dart**
+- 💬 Ask me about **Java,Flutter,Dart,SpringMvc**
 
 - 📫 How to reach me **ajitanimesh1234@gmail.com**
 
